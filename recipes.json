@@ -9,6 +9,11 @@
       "title": "Banana Oatmeal Pancakes",
       "description": "Delicious and nutritious pancakes made with ripe bananas, groats, milk, eggs, and a hint of vanilla. Perfect for a wholesome breakfast or brunch!",
       "link": "banana-oatmeal-pancakes.html"
+    },
+    {
+      "title": "Pineapple Fried Rice",
+      "description": "A classic and versatile dish made with cooked rice, vegetables, protein, and flavorful seasonings. It's quick and easy to prepare, making it perfect for a tasty weeknight meal or a satisfying side dish.",
+      "link": "pineapple-fried-rice.html"
     }
   ]
 }
