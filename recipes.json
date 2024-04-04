@@ -17,6 +17,13 @@
       "description": "A classic and versatile dish made with cooked rice, vegetables, protein, and flavorful seasonings. It's quick and easy to prepare, making it perfect for a tasty weeknight meal or a satisfying side dish.",
       "link": "pineapple-fried-rice.html",
       "img": "assets/images/pineapple-fried-rice.png"
-    }
+    },
+    {
+      "title": "Omelet",
+      "description": "A simple recipe for an omelet with mushrooms, bell pepper, and onion.",
+      "link": "omelet.html",
+      "img": "assets/images/omelet.jpg"
+  }
+  
   ]
 }
