@@ -6,6 +6,10 @@ fetch('recipes.json')
 
     // Loop through each recipe
     recipes.forEach(recipe => {
+      // Create img element for the title
+      const imgElement = document.createElement('img');
+      imgElement.src = recipe.img;
+
       // Create h2 element for the title
       const titleElement = document.createElement('h2');
       titleElement.textContent = recipe.title;
@@ -23,6 +27,7 @@ fetch('recipes.json')
       // Create a container for each recipe
       const recipeContainer = document.createElement('div');
       recipeContainer.classList.add('recipe');
+      recipeContainer.appendChild(imgElement);
       recipeContainer.appendChild(titleElement);
       recipeContainer.appendChild(descriptionElement);
       recipeContainer.appendChild(linkElement);
