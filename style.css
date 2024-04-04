@@ -14,6 +14,14 @@ h1 {
 	margin: 0;
 	font-size: 36px;
 }
+img {
+	width: 200px;
+}
+.recipe-container {
+	display: flex;
+	flex-wrap: wrap;
+
+}
 .container {
 	max-width: 800px;
 	margin: 20px auto;
@@ -25,6 +33,9 @@ h1 {
 	margin-bottom: 20px;
 	border-radius: 5px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	width: 200px;
+	margin-left: 20px;
+	margin-top: 20px;
 }
 .recipe h2 {
 	font-size: 24px;
