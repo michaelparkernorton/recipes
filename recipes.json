@@ -19,10 +19,10 @@
       "img": "assets/images/pineapple-fried-rice.png"
     },
     {
-      "title": "Omelet",
+      "title": "MBO Omelet",
       "description": "A simple recipe for an omelet with mushrooms, bell pepper, and onion.",
-      "link": "omelet.html",
-      "img": "assets/images/omelet.png"
+      "link": "mbo-omelet.html",
+      "img": "assets/images/mbo-omelet.png"
     },
     {
       "title": "Cauliflower Crust Pizza",
@@ -30,7 +30,5 @@
       "link": "cauliflower-crust-pizza.html",
       "img": "assets/images/cauliflower-crust-pizza.png"
     }
-    
-  
   ]
 }

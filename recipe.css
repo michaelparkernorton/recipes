@@ -7,7 +7,7 @@ body {
 .container {
 	max-width: 800px;
 	margin: 20px auto;
-	padding: 0 20px;
+	padding: 20px;
 	background-color: #fff;
 	border-radius: 5px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -15,6 +15,11 @@ body {
 h1 {
 	text-align: center;
 	margin-top: 20px;
+}
+img {
+	width: 200px;
+	display: block;
+	margin: auto;
 }
 h2 {
 	margin-top: 20px;
